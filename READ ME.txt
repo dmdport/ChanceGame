@@ -1,0 +1,4 @@
+******READ ME******
+
+The menu works by entering in a number corresponding to the number listed next to each option. eg: press 1 for dice game
+Once the game is completed, it will then loop again allowing to select a new game or hitting 4 to quit.
